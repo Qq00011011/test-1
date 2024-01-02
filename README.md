@@ -20,4 +20,4 @@
 
 **저장소 이미지** 삽입하기
 
-![프로필 이미지](./temporary image.png)
+![프로필 이미지](./temporary_image.png)
